@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://ZHANGROU-99.github.io',
                 'git_url': 'https://github.com/ZHANGROU-99/dabest_nb2',
                 'lib_path': 'dabest_nb2'},
-  'syms': {'dabest_nb2.core': {'dabest_nb2.core.foo': ('core.html#foo', 'dabest_nb2/core.py')}}}
+  'syms': { 'dabest_nb2.core': {'dabest_nb2.core.foo': ('core.html#foo', 'dabest_nb2/core.py')},
+            'dabest_nb2.load': {'dabest_nb2.load.load': ('load.html#load', 'dabest_nb2/load.py')}}}
