@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dabest_nb2"
+  site-url: "https://ZHANGROU-99.github.io/dabest_nb2"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/ZHANGROU-99/dabest_nb2"
