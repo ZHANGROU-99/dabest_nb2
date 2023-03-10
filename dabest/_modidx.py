@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://ZHANGROU-99.github.io',
                 'git_url': 'https://github.com/ZHANGROU-99/dabest_nb2',
                 'lib_path': 'dabest'},
-  'syms': {'dabest.load': {'dabest.load.load': ('API/load.html#load', 'dabest/load.py')}}}
+  'syms': {}}
