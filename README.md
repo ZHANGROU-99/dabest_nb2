@@ -17,7 +17,7 @@ pip install dabest_nb2
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+2
+1+1
 ```
 
-    3
+    2
